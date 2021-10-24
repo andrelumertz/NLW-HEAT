@@ -11,10 +11,6 @@
 
 <p align="center">
  <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=FFCD1E&labelColor=FF008E" alt="License">
-  
-  <img src="https://img.shields.io/github/forks/birobirobiro/nlw-heat-origin-v2?label=forks&message=MIT&color=FFCD1E&labelColor=FF008E" alt="Forks">
-
-  <img src="https://img.shields.io/github/stars/birobirobiro/nlw-heat-origin-v2?label=stars&message=MIT&color=FFCD1E&labelColor=FF008E" alt="Stars">
 </p>
 
 <br>
@@ -47,4 +43,3 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
